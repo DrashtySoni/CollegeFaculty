@@ -1,4 +1,5 @@
 # CollegeFaculty
+- Link to see detailed features for project - https://docs.google.com/presentation/d/1HceQW8rJaPLECLh0rBnI3R3qghsLBZaa/mobilepresent?slide=id.p1
 - Clone the repositry
 - open in the android studio
 - wait for gradle building
